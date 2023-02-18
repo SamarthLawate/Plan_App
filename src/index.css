@@ -1,0 +1,13 @@
+body {
+  background-image: linear-gradient(to right, #216c6e, #216c6e);
+}
+
+.container-fluid .col-3 {
+  flex: 0 0 auto;
+  float: left;
+  position: relative;
+  margin-top: 10px;
+  left: 25%;
+  width: 25%;
+  color: cadetblue;
+}
